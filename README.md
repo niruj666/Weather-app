@@ -14,9 +14,6 @@ A simple weather application built using HTML, CSS and JavaScript.
 
 https://niruj666.github.io/Weather-app/
 
-## Screenshot
-
-![Weather App](screenshot.png)
 
 ## Technologies Used
 
